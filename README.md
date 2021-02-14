@@ -1,2 +1,6 @@
 # Sets
-Part of Project 3 from my Program Design class during the Spring 2017 semester.
+
+This program reads in two sets of numbers, A and B, and calculates
+and prints their union (A ∪ B) and intersection (A ∩ B).
+
+For a detailed description of this project, please refer to Project 3.pdf
